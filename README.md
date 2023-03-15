@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThunderIW
 - 👀 I’m interested in computer Science, videoGame, and AI
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord:
 
