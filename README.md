@@ -46,7 +46,7 @@ ThunderIW = {
 ## 📫 Contact Me
 
 - LinkedIn - [ThunderIW](https://linkedin.com/in/thunderiw)
-- Email - [thunderiw@example.com](mailto:thunderiw@example.com)
+- Email - [im.wiessler@gmail.com](mailto:im.wiessler@gmail.com)
 
 ## 📊 GitHub Stats
 
