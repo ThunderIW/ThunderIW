@@ -40,12 +40,9 @@ ThunderIW = {
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-black?style=flat&logo=Shell&logoColor=white)
 
 ## 📫 Contact Me
 
-- LinkedIn - [ThunderIW](https://linkedin.com/in/thunderiw)
 - Email - [im.wiessler@gmail.com](mailto:im.wiessler@gmail.com)
 
 ## 📊 GitHub Stats
