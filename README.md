@@ -26,17 +26,15 @@ I am ThunderIW, a third-year computer science student at UBCO, with a passion fo
 
 ```python
 ThunderIW = {
-    "code": ["Python", "C", "C++","HTML", "CSS", "Javascript", "Ruby", "Shell"],
+    "code": ["Python", "React", "","HTML", "CSS", "Javascript", "Ruby", "Shell"],
     "tools": ["Makefile", "Nix"],
-    "skills": ["Web Development","Problem Solving", "Data Structures", "Algorithms"]
+    "skills": ["Web Development","Problem Solving", "Data Structures", "Algorithms","FrontEnd Development"]
 }
 ```
 
 ## 🔧 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
