@@ -12,7 +12,7 @@
 
 ---
 
-I am ThunderIW, a third-year computer science student at UBCO, with a passion for learning and contributing to the open-source community. Constantly seeking to improve my coding skills, I actively engage in creating and updating repositories to share knowledge and demonstrate my dedication to programming. 
+I am Immanuel, a third-year computer science student at UBCO, with a passion for learning and contributing to the open-source community. Constantly seeking to improve my coding skills, I actively engage in creating and updating repositories to share knowledge and demonstrate my dedication to programming. 
 
 ## 👨🏻‍💻 About Me
 
