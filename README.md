@@ -26,7 +26,7 @@ I am Immanuel, a third-year computer science student at UBCO, with a passion for
 
 ```python
 ThunderIW = {
-    "code": ["Python", "React", "","HTML", "CSS", "Javascript"],
+    "code": ["Python", "React", "","HTML", "CSS", "Javascript","circuitPython"],
     "tools": ["Makefile", "Nix"],
     "skills": ["Web Development","Problem Solving", "Data Structures", "Algorithms","FrontEnd Development"]
 }
@@ -35,7 +35,6 @@ ThunderIW = {
 ## 🔧 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
-![circuitPython](https://imgs.search.brave.com/SddJa2NWwPeF522sqqFhTUjJ5aNDtJgKyZ3IBZs-qn4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1X2hz/YXNvL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzYxYnl0bW9xcGQ1/MjEucG5n)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
