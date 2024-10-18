@@ -35,7 +35,7 @@ ThunderIW = {
 ## 🔧 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
-![circuitPython](https://imgs.search.brave.com/0ICYJYwG1FvDxq5Qx7HYBKQgifzesTovZTzy0mmj2_k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L0FkYWZydWl0/X2JsaW5rYV9hbmds/ZXMtbGVmdC5zdmc)
+![circuitPython](https://imgs.search.brave.com/SddJa2NWwPeF522sqqFhTUjJ5aNDtJgKyZ3IBZs-qn4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1X2hz/YXNvL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzYxYnl0bW9xcGQ1/MjEucG5n)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
