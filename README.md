@@ -26,7 +26,7 @@ I am Immanuel, a third-year computer science student at UBCO, with a passion for
 
 ```python
 ThunderIW = {
-    "code": ["Python", "React", "","HTML", "CSS", "Javascript", "Ruby", "Shell"],
+    "code": ["Python", "React", "","HTML", "CSS", "Javascript"],
     "tools": ["Makefile", "Nix"],
     "skills": ["Web Development","Problem Solving", "Data Structures", "Algorithms","FrontEnd Development"]
 }
@@ -35,6 +35,7 @@ ThunderIW = {
 ## 🔧 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
+![circuitPython](https://imgs.search.brave.com/0ICYJYwG1FvDxq5Qx7HYBKQgifzesTovZTzy0mmj2_k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L0FkYWZydWl0/X2JsaW5rYV9hbmds/ZXMtbGVmdC5zdmc)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -62,7 +63,8 @@ ThunderIW = {
 
 ## 💡 Fun Fact
 
-"There are two ways to write error-free programs; only the third one works." - Anonymous
+"“Life isn’t about making a living,
+It’s about living your making!”" - Anonymous
 
 ---
 
