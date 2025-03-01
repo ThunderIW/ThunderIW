@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/ThunderIW) 
-[![GitHub followers](https://img.shields.io/github/followers/ThunderIW?style=social)](https://github.com/ThunderIW)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thunderiw?style=social)](https://twitter.com/ThunderIW)
+
 
 ✨ Welcome to my GitHub profile! ✨
+
+<img src="https://tenor.com/bnuWT.gif" alt="Animated GIF" width="100%">
 
 </div>
 
