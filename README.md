@@ -6,7 +6,7 @@
 
 ✨ Welcome to my GitHub profile! ✨
 
-<img src="https://tenor.com/bnuWT.gif" alt="Animated GIF" width="100%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU5OXc0OWx5YjkzeTJjdWQxbHlpNXk1cTQ3MTE5cHA3NHg0NXNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif" alt="Animated GIF" width="70%">
 
 </div>
 
