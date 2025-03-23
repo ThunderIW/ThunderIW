@@ -6,7 +6,7 @@
 
 ✨ Welcome to my GitHub profile! ✨
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU5OXc0OWx5YjkzeTJjdWQxbHlpNXk1cTQ3MTE5cHA3NHg0NXNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif" alt="Animated GIF" width="70%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQ1ejUycXkxNGF0bThmOGI2cGQ3NHZkM2M2YmZpcnhjbDY3dGFzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" alt="Animated GIF" width="50%">
 
 </div>
 
