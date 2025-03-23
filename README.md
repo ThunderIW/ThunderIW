@@ -26,7 +26,7 @@ I am Immanuel, a Fourth-year computer science student at UBCO, with a passion fo
 
 ```python
 ThunderIW = {
-    "code": ["Python", "React", "","HTML", "CSS", "Javascript","circuitPython"],
+    "code": ["Python", "React", "","HTML", "CSS", "Javascript","circuitPython","PHP","MySQL"],
     "tools": ["Makefile", "Nix"],
     "skills": ["Web Development","Problem Solving", "Data Structures", "Algorithms","FrontEnd Development"]
 }
