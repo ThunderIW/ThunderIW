@@ -54,8 +54,8 @@ ThunderIW = {
 ## ⭐ Featured Repositories
 
 - [WarframeFinder](https://github.com/ThunderIW/WarframeFinder) - A repository to help you find information about various aspects of the game Warframe.
-- [C-Projects](https://github.com/ThunderIW/C-Projects) - A collection of C programming projects demonstrating various concepts and techniques.
-- [Testy](https://github.com/ThunderIW/Testy) - A testing library for automated unit testing in various programming languages.
+- [UBC Okanagan Battlebot Management System](https://github.com/ThunderIW/BattleBotsManagmentSystem) - A system that was developed to help track and manage the inventory of the battlebots club and overall promote the club 
+
 
 ## 🌟 Recognition and Popularity
 
