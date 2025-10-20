@@ -1,4 +1,4 @@
-# ThunderIW
+# ThunderIW(Immanuel Wiessler)
 
 <div align="center">
 
