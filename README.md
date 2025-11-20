@@ -33,15 +33,8 @@ ThunderIW = {
 ```
 
 ## 🔧 Technologies
+[![My Skills](https://skillicons.dev/icons?i=github,git,pycharm,py,mysql,sqlite,fastapi&heme=dark)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)
-![CircuitPython](https://img.shields.io/badge/-CircuitPython-black?style=flat&logo=raspberrypi&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
  
 
 
