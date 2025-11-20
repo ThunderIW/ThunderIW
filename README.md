@@ -1,6 +1,6 @@
 # ThunderIW(Immanuel Wiessler)
 
-<div align="center">
+
 
 
 
@@ -33,16 +33,22 @@ ThunderIW = {
 ```
 
 ## 🔧 Technologies
-[![My Skills](https://skillicons.dev/icons?i=github,git,pycharm,py,mysql,sqlite,fastapi,html,md,notion,opencv,postman,webstorm&theme=dark&perline=3)](https://skillicons.dev)
-
-<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=github,git,pycharm,py,mysql,sqlite,fastapi,html,md,notion,opencv,postman,webstorm,css,windows&theme=dark&perline=3)](https://skillicons.dev)
+<p>
   <a href="https://streamlit.io" target="_blank">
     <img src="https://img.icons8.com/color/512/streamlit.png" width="48" />
   </a>
-  <a href="https://www.jetbrains.com/datagrip/" target="_blank">
-    <img src="https://logowik.com/content/uploads/images/datagrip5226.logowik.com.webp" width="48" />
-  </a>
+    <a href="https://www.jetbrains.com/datagrip/" target="_blank">
+    <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" width="48" />
+  
 </p>
+
+
+
+
+
+
+ 
 
 
 
