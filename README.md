@@ -58,7 +58,8 @@ ThunderIW = {
 ## 📫 Contact Me
 
 - Email:[im.wiessler@gmail.com](mailto:im.wiessler@gmail.com)
-- Phone: (250) 826 9636
+- Phone: [(250) 826-9636](tel:+12508269636)
+
 
 ## 📊 GitHub Stats
 
