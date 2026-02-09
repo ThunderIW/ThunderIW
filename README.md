@@ -33,7 +33,7 @@ ThunderIW = {
 ```
 
 ## 🔧 Technologies
-[![My Skills](https://skillicons.dev/icons?i=github,git,pycharm,py,mysql,sqlite,fastapi,html,md,notion,opencv,postman,webstorm,css,windows&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,pycharm,py,mysql,sqlite,fastapi,html,md,notion,opencv,postman,webstorm,aiscript,css,windows&theme=dark&perline=5)](https://skillicons.dev)
 <p>
   <a href="https://streamlit.io" target="_blank">
     <img src="https://img.icons8.com/color/512/streamlit.png" width="48" />
