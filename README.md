@@ -12,11 +12,11 @@
 
 ---
 
-I am Immanuel, a Fourth-year computer science student at UBCO, with a passion for learning and contributing to the open-source community. Constantly seeking to improve my coding skills, I actively engage in creating and updating repositories to share knowledge and demonstrate my dedication to programming. 
+I am Immanuel, a Fourth-year computer science student at UBCO, with a passion for learning and contributing to the open-source community. Constantly seeking to improve my coding skills, I actively create and update repositories to share knowledge and demonstrate my dedication to programming. 
 
 ## 👨🏻‍💻 About Me
 
-- 💼 Currently an undergraduate UBCO computer science student 
+- 💼 Currently an undergraduate(4th year) at UBCO in computer science student 
 - 🌱 Interested in Robotics and AI
 - 💡 Passionate about creating innovative solutions and software development
 - 🤝 Open for collaborations and exploring new opportunities
@@ -26,9 +26,9 @@ I am Immanuel, a Fourth-year computer science student at UBCO, with a passion fo
 
 ```python
 ThunderIW = {
-    "code": ["Python", "React", "","HTML", "CSS", "Javascript","circuitPython","PHP","MySQL"],
+    "code": ["Python", "React","HTML", "CSS", "JavaScript","CircuitPython", "PHP", "MySQL"],
     "tools": ["Makefile", "Nix"],
-    "skills": ["Web Development","Problem Solving", "Data Structures", "Algorithms","FrontEnd Development"]
+    "skills": ["Web Development", "Problem Solving", "Data Structures", "Algorithms" ,"FrontEnd Development"]
 }
 ```
 
@@ -57,7 +57,8 @@ ThunderIW = {
 
 ## 📫 Contact Me
 
-- Email - [im.wiessler@gmail.com](mailto:im.wiessler@gmail.com)
+- Email:[im.wiessler@gmail.com](mailto:im.wiessler@gmail.com)
+- Phone: (250) 826 9636
 
 ## 📊 GitHub Stats
 
