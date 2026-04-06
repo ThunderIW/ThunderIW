@@ -65,10 +65,12 @@ ThunderIW = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThunderIW&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThunderIW&theme=tokyonight" height="165" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderIW&layout=donut&theme=tokyonight" height="165" />
+  <a href="https://github.com/ThunderIW">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThunderIW&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ThunderIW">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderIW&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
 </div>
 
 
