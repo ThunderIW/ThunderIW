@@ -61,10 +61,16 @@ ThunderIW = {
 - Phone: [(250) 826-9636](tel:+12508269636)
 
 
+
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThunderIW&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderIW&hide=TeX&layout=compact&title_color=ffffff&text_color=daf7dc&bg_color=151515)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThunderIW&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ThunderIW&theme=tokyonight" height="165" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderIW&layout=donut&theme=tokyonight" height="165" />
+</div>
 
 ## ⭐ Featured Repositories
 
