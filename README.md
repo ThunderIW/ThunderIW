@@ -48,11 +48,6 @@ ThunderIW = {
 
 
 
- 
-
-
-
- 
 
 
 ## 📫 Contact Me
@@ -65,12 +60,8 @@ ThunderIW = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ThunderIW">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThunderIW&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ThunderIW">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderIW&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThunderIW&show_icons=true&theme=tokyonight&cache_seconds=21600" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderIW&layout=compact&langs_count=8&card_width=320&theme=tokyonight&cache_seconds=21600" />
 </div>
 
 
