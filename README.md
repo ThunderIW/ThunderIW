@@ -62,15 +62,15 @@ ThunderIW = {
 
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThunderIW&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=ThunderIW&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThunderIW&theme=tokyonight" height="165" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderIW&layout=donut&theme=tokyonight" height="165" />
 </div>
+
 
 ## ⭐ Featured Repositories
 
