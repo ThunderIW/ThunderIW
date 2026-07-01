@@ -16,11 +16,12 @@ I am Immanuel, a Fourth-year computer science student at UBCO, with a passion fo
 
 ## 👨🏻‍💻 About Me
 
-- 💼 Currently an undergraduate(4th year) at UBCO in computer science student 
+- 🎓Currently a CS grad from UBC 
 - 🌱 Interested in Robotics and AI
 - 💡 Passionate about creating innovative solutions and software development
 - 🤝 Open for collaborations and exploring new opportunities
 - 😄 Pronouns: He/Him
+- 💻 working on: building an AI system for counting employees
 
 ## 🛠 Skills
 
