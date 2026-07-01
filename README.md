@@ -12,7 +12,7 @@
 
 ---
 
-I am Immanuel, a Fourth-year computer science student at UBCO, with a passion for learning and contributing to the open-source community. Constantly seeking to improve my coding skills, I actively create and update repositories to share knowledge and demonstrate my dedication to programming. 
+I am Immanuel, a computer science grad, with a passion for learning and contributing to the open-source community. Constantly seeking to improve my coding skills, I actively create and update repositories to share knowledge and demonstrate my dedication to programming. 
 
 ## 👨🏻‍💻 About Me
 
@@ -22,6 +22,8 @@ I am Immanuel, a Fourth-year computer science student at UBCO, with a passion fo
 - 🤝 Open for collaborations and exploring new opportunities
 - 😄 Pronouns: He/Him
 - 💻 working on: building an AI system for counting employees
+- 🌱 Currently learning [Reflex](https://github.com/reflex-dev/reflex) — building full-stack web apps in pure Python
+
 
 ## 🛠 Skills
 
@@ -32,6 +34,8 @@ ThunderIW = {
     "skills": ["Web Development", "Problem Solving", "Data Structures", "Algorithms" ,"FrontEnd Development"]
 }
 ```
+
+
 
 ## 🔧 Technology and skills
 [![My Skills](https://skillicons.dev/icons?i=github,git,pycharm,py,mysql,sqlite,fastapi,html,md,notion,opencv,postman,webstorm,aiscript,css,windows&theme=dark&perline=5)](https://skillicons.dev)
