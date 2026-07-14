@@ -22,6 +22,7 @@ I am Immanuel, a computer science grad, with a passion for learning and contribu
 - 🤝 Open for collaborations and exploring new opportunities
 - 😄 Pronouns: He/Him
 - 💻 working on: building an AI system for counting employees
+- 🏗️ Building a nicegui web app front-end for a Eurocode 2 (EN 1992-1-1) crack-width calculator for structural engineering
 - 🌱 Currently learning [Reflex](https://github.com/reflex-dev/reflex) — building full-stack web apps in pure Python
 
 
