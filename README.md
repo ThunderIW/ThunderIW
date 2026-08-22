@@ -14,10 +14,9 @@
 ---
 
 ### 👋 Hey there
+I am recent CS grad who loves solving real problems, then shipping and sharing what I build. Most of my time goes into exploring new developments in LLMs and AI, and into self-hosting open-source and open-weight models for offline, private use. When I get spare
+time, I play video games.
 
-I'm a computer science graduate who likes building things that actually ship — and then
-sharing them. Most of my time goes into Python, robotics, and figuring out how to make
-complicated engineering problems feel simple on screen.
 
 <br />
 
@@ -41,7 +40,7 @@ complicated engineering problems feel simple on screen.
 - 🤖 **Employee-counting AI system** — computer vision for real-time occupancy
 - 🏗️ **Eurocode 2 crack-width calculator** — a NiceGUI front-end for EN 1992-1-1 structural checks
 - 🧠 **Agent development** — building LLM agents with LangChain and the Anthropic API
-- 🧪 Learning [**Reflex**](https://github.com/reflex-dev/reflex) — full-stack web apps in pure Python
+- 🧪 Learning [NiceGUI](https://nicegui.io/) for building web UIs in pure Python, backed by [SQLModel](https://sqlmodel.tiangolo.com/) — an ORM that merges Pydantic's validation with SQLAlchemy's database layer.
 
 <br />
 
