@@ -62,9 +62,10 @@ complicated engineering problems feel simple on screen.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NiceGUI](https://img.shields.io/badge/NiceGUI-2D9CDB?style=flat-square&logo=vuedotjs&logoColor=white)
+[![NiceGUI](https://img.shields.io/badge/NiceGUI-2D9CDB?style=flat-square&logo=vuedotjs&logoColor=white)](https://nicegui.io/)
+[![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=flat-square&logo=python&logoColor=white)](https://sqlmodel.tiangolo.com/)
 
 **AI &amp; Agentic Development**
 
