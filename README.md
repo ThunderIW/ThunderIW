@@ -38,6 +38,7 @@ time, I play video games.
 ### 🚧 Currently building
 
 - 🤖 **Employee-counting AI system** — computer vision for real-time occupancy
+- ⏱️ **Employee time-tracking app** — turns raw punch-clock data into monthly hours reports, replacing a manual multi-step process for the office secretary
 - 🏗️ **Eurocode 2 crack-width calculator** — a NiceGUI front-end for EN 1992-1-1 structural checks
 - 🧠 **Agent development** — building LLM agents with LangChain and the Anthropic API
 - 🧪 Learning [NiceGUI](https://nicegui.io/) for building web UIs in pure Python, backed by [SQLModel](https://sqlmodel.tiangolo.com/) — an ORM that merges Pydantic's validation with SQLAlchemy's database layer.
