@@ -109,13 +109,6 @@ time, I play video games.
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThunderIW&theme=github_dark" alt="GitHub stats" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThunderIW&theme=github_dark" alt="Top languages" />
 
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/ThunderIW/ThunderIW/output/snake.svg" alt="Contribution snake" />
-
-</div>
-
-<br />
 
 ---
 
