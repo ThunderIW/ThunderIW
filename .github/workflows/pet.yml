@@ -17,3 +17,4 @@ jobs:
           username: ThunderIW
           timezone-offset-minutes: "480"
           accent-color: "#FF2A6D"
+          hibernate-until: "2026-12-31"
