@@ -103,7 +103,21 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 ### `> capabilities`
 
-`Web Development` · `Problem Solving` · `Data Structures` · `Algorithms` · `Front-End Development` · `Computer Vision` · `Agentic Development` · `LLM Integration` · `Full-Stack Development`
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM_Integration-FF2A6D?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM Integration" />
+<img src="https://img.shields.io/badge/Agentic_Development-FF2A6D?style=for-the-badge&logo=langchain&logoColor=white" alt="Agentic Development" />
+<img src="https://img.shields.io/badge/Computer_Vision-FF2A6D?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+<br />
+<img src="https://img.shields.io/badge/Full--Stack_Development-7A04EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="Full-Stack Development" />
+<img src="https://img.shields.io/badge/Front--End_Development-7A04EB?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Development" />
+<img src="https://img.shields.io/badge/Web_Development-7A04EB?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
+<br />
+<img src="https://img.shields.io/badge/Problem_Solving-05D9E8?style=for-the-badge&logo=leetcode&logoColor=0D0221" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/Data_Structures-05D9E8?style=for-the-badge&logo=leetcode&logoColor=0D0221" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Algorithms-05D9E8?style=for-the-badge&logo=thealgorithms&logoColor=0D0221" alt="Algorithms" />
+
+</div>
 
 <br />
 
