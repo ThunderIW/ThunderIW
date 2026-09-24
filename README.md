@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5wMnJ6eTFob3l1MDhweGpleHA1NHIwa3Z6NTV0bXhlbnJza2V4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif" width="420" alt="banner" />
-
-# Immanuel Wiessler
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:58A6FF&height=200&section=header&text=Immanuel%20Wiessler&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Automation%20Engineer&descAlignY=65" width="100%" alt="header" />
 
 <a href="https://github.com/ThunderIW"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=CS+grad+%C2%B7+Robotics+%26+AI;Agent+development+with+Claude+Code+%26+LangChain;Building+an+employee-counting+vision+system;Eurocode+2+crack-width+calculator+in+NiceGUI;Full-stack+Python" alt="Typing SVG" /></a>
 
