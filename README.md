@@ -35,6 +35,12 @@ time, I play video games.
 
 <br />
 
+### 💼 Currently working
+
+**AI & Automation Engineer** at **Wiecon Co. Ltd.**, an international bridge design and engineering consultancy. I audit engineering workflows and calculations to find repetitive work worth automating, build the business case for it, then develop and deploy in-house AI and automation tools so engineers can spend their time on design and R&D.
+
+<br />
+
 ### 🚧 Currently building
 
 - 🤖 **Employee-counting AI system** — computer vision for real-time occupancy
@@ -96,7 +102,7 @@ time, I play video games.
 
 ### 🎯 What I bring
 
-`Web Development` · `Problem Solving` · `Data Structures` · `Algorithms` · `Front-End Development` · `Computer Vision` · `Agentic Development` · `LLM Integration`
+`Web Development` · `Problem Solving` · `Data Structures` · `Algorithms` · `Front-End Development` · `Computer Vision` · `Agentic Development` · `LLM Integration` · `Full-Stack Development`
 
 <br />
 
