@@ -56,46 +56,61 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![CircuitPython](https://img.shields.io/badge/CircuitPython-8A2BE2?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks &amp; Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-[![NiceGUI](https://img.shields.io/badge/NiceGUI-2D9CDB?style=flat-square&logo=vuedotjs&logoColor=white)](https://nicegui.io/)
-[![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=flat-square&logo=python&logoColor=white)](https://sqlmodel.tiangolo.com/)
-
-**AI &amp; Agentic Development**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-
-**Data &amp; Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-**Editors**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
+<table>
+<tr>
+<td align="right"><code>~/stack/languages</code></td>
+<td>
+<img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%23-0D0221?style=for-the-badge&logo=dotnet&logoColor=A179DC" alt="C#" />
+<img src="https://img.shields.io/badge/C-0D0221?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/PHP-0D0221?style=for-the-badge&logo=php&logoColor=8993BE" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0D0221?style=for-the-badge&logo=css&logoColor=2965F1" alt="CSS3" />
+<img src="https://img.shields.io/badge/CircuitPython-0D0221?style=for-the-badge&logo=python&logoColor=B76EFF" alt="CircuitPython" />
+</td>
+</tr>
+<tr>
+<td align="right"><code>~/stack/frameworks</code></td>
+<td>
+<img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=1ABC9C" alt="FastAPI" />
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-0D0221?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" /></a>
+<img src="https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=8C7BFF" alt="OpenCV" />
+<a href="https://nicegui.io/"><img src="https://img.shields.io/badge/NiceGUI-0D0221?style=for-the-badge&logo=vuedotjs&logoColor=42B883" alt="NiceGUI" /></a>
+<a href="https://sqlmodel.tiangolo.com/"><img src="https://img.shields.io/badge/SQLModel-0D0221?style=for-the-badge&logo=pydantic&logoColor=E92063" alt="SQLModel" /></a>
+</td>
+</tr>
+<tr>
+<td align="right"><code>~/stack/ai_agents</code></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=langchain&logoColor=00FFA3" alt="LangChain" />
+<img src="https://img.shields.io/badge/Claude_Code-0D0221?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Anthropic_API-0D0221?style=for-the-badge&logo=anthropic&logoColor=F0EEE6" alt="Anthropic API" />
+<img src="https://img.shields.io/badge/Cursor-0D0221?style=for-the-badge&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+</td>
+</tr>
+<tr>
+<td align="right"><code>~/stack/data_tools</code></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=5AA9E6" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-0D0221?style=for-the-badge&logo=sqlite&logoColor=7FC8F8" alt="SQLite" />
+<img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/uv-0D0221?style=for-the-badge&logo=uv&logoColor=DE5FE9" alt="uv" />
+<img src="https://img.shields.io/badge/Postman-0D0221?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+<img src="https://img.shields.io/badge/Notion-0D0221?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion" />
+</td>
+</tr>
+<tr>
+<td align="right"><code>~/stack/editors</code></td>
+<td>
+<img src="https://img.shields.io/badge/VS_Code-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=23A8F2" alt="VS Code" />
+<img src="https://img.shields.io/badge/PyCharm-0D0221?style=for-the-badge&logo=pycharm&logoColor=21D789" alt="PyCharm" />
+<img src="https://img.shields.io/badge/WebStorm-0D0221?style=for-the-badge&logo=webstorm&logoColor=07C3F2" alt="WebStorm" />
+<img src="https://img.shields.io/badge/DataGrip-0D0221?style=for-the-badge&logo=datagrip&logoColor=22D88F" alt="DataGrip" />
+</td>
+</tr>
+</table>
 
 </div>
 
