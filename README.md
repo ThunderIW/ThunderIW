@@ -33,7 +33,7 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 <br />
 
-### `> current_mission`
+### `> current_role`
 
 **AI & Automation Engineer** at **Wiecon Co. Ltd.**, an international bridge design and engineering consultancy. I audit engineering workflows and calculations to find repetitive work worth automating, build the business case for it, then develop and deploy in-house AI and automation tools so engineers can spend their time on design and R&D.
 
@@ -41,11 +41,14 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 ### `> active_builds`
 
-- 🤖 **Employee-counting AI system** — computer vision for real-time occupancy
-- ⏱️ **Employee time-tracking app** — turns raw punch-clock data into monthly hours reports, replacing a manual multi-step process for the office secretary
-- 🏗️ **Eurocode 2 crack-width calculator** — a NiceGUI front-end for EN 1992-1-1 structural checks
-- 🧠 **Agent development** — building LLM agents with LangChain and the Anthropic API
-- 🧪 Learning [NiceGUI](https://nicegui.io/) for building web UIs in pure Python, backed by [SQLModel](https://sqlmodel.tiangolo.com/) — an ORM that merges Pydantic's validation with SQLAlchemy's database layer.
+| | Project | What it does | Built with |
+|:-:|:--|:--|:--|
+| 🤖 | **Employee-counting AI system** | Computer vision for real-time occupancy counting | ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=05D9E8) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D0221?style=flat-square&logo=opencv&logoColor=05D9E8) |
+| ⏱️ | **Employee time-tracking app** | Turns raw punch-clock data into monthly hours reports, replacing a manual multi-step process for the office secretary | ![NiceGUI](https://img.shields.io/badge/NiceGUI-0D0221?style=flat-square&logo=vuedotjs&logoColor=05D9E8) ![SQLModel](https://img.shields.io/badge/SQLModel-0D0221?style=flat-square&logoColor=05D9E8) ![SQLite](https://img.shields.io/badge/SQLite-0D0221?style=flat-square&logo=sqlite&logoColor=05D9E8) |
+| 🏗️ | **Eurocode 2 crack-width calculator** | EN 1992-1-1 crack-width checks, ported from the firm’s Excel workbook | ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=05D9E8) ![NiceGUI](https://img.shields.io/badge/NiceGUI-0D0221?style=flat-square&logo=vuedotjs&logoColor=05D9E8) |
+| 🧠 | **Agent development** | Building LLM agents with LangChain and the Anthropic API | ![LangChain](https://img.shields.io/badge/LangChain-0D0221?style=flat-square&logo=langchain&logoColor=05D9E8) ![Anthropic API](https://img.shields.io/badge/Anthropic_API-0D0221?style=flat-square&logo=anthropic&logoColor=05D9E8) |
+
+> 🧪 **Now learning:** [NiceGUI](https://nicegui.io/) for web UIs in pure Python, backed by [SQLModel](https://sqlmodel.tiangolo.com/) — an ORM that merges Pydantic’s validation with SQLAlchemy’s database layer.
 
 <br />
 
