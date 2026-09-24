@@ -20,15 +20,16 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 ### `> about_me`
 
-```yaml
-name:       Immanuel Wiessler
-role:       AI & Automation Engineer @ Wiecon Co. Ltd.
-education:  BSc Computer Science, UBC Okanagan (2026)
-focus:      [LLMs, AI agents, robotics, mechatronics]
-also:       agent development with Claude Code & LangChain
-builds:     practical software that engineers actually use
-open_to:    collaborations
-pronouns:   he/him
+```text
+         ▄            immanuel@wiessler
+    ▄▄▄▄▄█▄▄▄▄▄       -----------------
+   █           █      role      AI & Automation Engineer @ Wiecon Co. Ltd.
+   █  ▀█▀ ▀█▀  █      degree    BSc Computer Science, UBC Okanagan (2026)
+   █           █      focus     LLMs · AI agents · robotics · mechatronics
+   █  ▀▀▀▀▀▀▀  █      also      agent development (Claude Code, LangChain)
+    ▀▀▀▀▀▀▀▀▀▀▀       builds    practical software engineers actually use
+       ▄███▄          open_to   collaborations
+     ▄███████▄        pronouns  he/him
 ```
 
 <br />
