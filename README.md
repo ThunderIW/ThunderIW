@@ -13,9 +13,7 @@
 ---
 
 ### 👋 Hey there
-I’m a recent Computer Science graduate and a hands-on system integrator who enjoys solving real-world problems and turning ideas into things that actually work. I like working at the intersection of software and hardware, bridging the gap between the people who build a system and the people who use it. Having experience in both areas helps me understand where a problem is coming from and work with the right people to find a practical solution.
-
-I spend a lot of my time exploring new developments in LLMs and AI, as well as self-hosting open-source and open-weight models for private, offline use. I’m also interested in robotics and mechatronics, especially how software and hardware can be combined to solve real-world problems. Outside of technology, I enjoy travelling, exploring new places, and building and sharing the things I create. When I’m not working on a project or exploring something new, I enjoy unwinding with a good video game.
+I’m a recent Computer Science graduate and hands-on system integrator who enjoys solving real-world problems and turning ideas into things that actually work. I like working at the intersection of software and hardware, with a particular interest in LLMs, AI, robotics, and mechatronics. I spend much of my time exploring new technologies and self-hosting open-source and open-weight models for private, offline use. Outside of technology, I enjoy travelling, exploring new places, and building and sharing the things I create. When I’m not working on a project or exploring something new, I enjoy unwinding with a good video game.
 
 
 <br />
