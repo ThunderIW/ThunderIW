@@ -147,6 +147,12 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThunderIW/ThunderIW/main/dist/graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThunderIW/ThunderIW/main/dist/graph-light.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/ThunderIW/ThunderIW/main/dist/graph.svg" width="100%">
+</picture>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThunderIW&theme=radical" alt="Profile details" />
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThunderIW&theme=radical" alt="GitHub stats" />
