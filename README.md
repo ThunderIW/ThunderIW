@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:58A6FF&height=200&section=header&text=Immanuel%20Wiessler&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20and%20Automation%20Engineer&descAlignY=65" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7A04EB,100:FF2A6D&height=220&section=header&text=IMMANUEL%20WIESSLER&fontSize=46&fontColor=05D9E8&animation=twinkling&fontAlignY=38&desc=%2F%2F%20AI%20and%20Automation%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<a href="https://github.com/ThunderIW"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=CS+grad+%C2%B7+Robotics+%26+AI;Agent+development+with+Claude+Code+%26+LangChain;Building+an+employee-counting+vision+system;Eurocode+2+crack-width+calculator+in+NiceGUI;Full-stack+Python" alt="Typing SVG" /></a>
+<a href="https://github.com/ThunderIW"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=3000&pause=800&color=05D9E8&center=true&vCenter=true&width=640&height=45&lines=%3E+system+online%3A+AI+%26+automation+engineer;%3E+deploying+LLM+agents+with+Claude+Code+%26+LangChain;%3E+scanning%3A+employee-counting+vision+system;%3E+compiling%3A+Eurocode+2+crack-width+calculator;%3E+interfacing+software+%E2%86%94+hardware" alt="Typing SVG" /></a>
 
 <a href="mailto:im.wiessler@gmail.com"><img src="https://img.shields.io/badge/Email-im.wiessler%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ThunderIW"><img src="https://img.shields.io/badge/GitHub-ThunderIW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -12,13 +12,13 @@
 
 ---
 
-### 👋 Hey there
+### `> whoami`
 I’m a recent Computer Science graduate and hands-on system integrator who enjoys solving real-world problems and turning ideas into things that actually work. I like working at the intersection of software and hardware, with a particular interest in LLMs, AI, robotics, and mechatronics. I spend much of my time exploring new technologies and self-hosting open-source and open-weight models for private, offline use. Outside of technology, I enjoy travelling, exploring new places, and building and sharing the things I create. When I’m not working on a project or exploring something new, I enjoy unwinding with a good video game.
 
 
 <br />
 
-### 👨🏻‍💻 About me
+### `> about_me`
 
 <div align="center">
 
@@ -33,13 +33,13 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 <br />
 
-### 💼 Currently working
+### `> current_mission`
 
 **AI & Automation Engineer** at **Wiecon Co. Ltd.**, an international bridge design and engineering consultancy. I audit engineering workflows and calculations to find repetitive work worth automating, build the business case for it, then develop and deploy in-house AI and automation tools so engineers can spend their time on design and R&D.
 
 <br />
 
-### 🚧 Currently building
+### `> active_builds`
 
 - 🤖 **Employee-counting AI system** — computer vision for real-time occupancy
 - ⏱️ **Employee time-tracking app** — turns raw punch-clock data into monthly hours reports, replacing a manual multi-step process for the office secretary
@@ -49,7 +49,7 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 <br />
 
-### 🛠 Tech stack
+### `> tech_stack`
 
 <div align="center">
 
@@ -98,27 +98,27 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 <br />
 
-### 🎯 What I bring
+### `> capabilities`
 
 `Web Development` · `Problem Solving` · `Data Structures` · `Algorithms` · `Front-End Development` · `Computer Vision` · `Agentic Development` · `LLM Integration` · `Full-Stack Development`
 
 <br />
 
-### 📊 By the numbers
+### `> system_stats`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThunderIW&theme=github_dark" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThunderIW&theme=radical" alt="Profile details" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThunderIW&theme=github_dark" alt="GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThunderIW&theme=github_dark" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThunderIW&theme=radical" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThunderIW&theme=radical" alt="Top languages" />
 
 
 ---
 
 <div align="center">
 
-### 📫 Let's talk
+### `> contact.sh`
 
 Got an idea, a role, or an open-source project that needs a hand?
 
