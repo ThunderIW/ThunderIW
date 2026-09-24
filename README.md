@@ -20,16 +20,16 @@ I’m a recent Computer Science graduate and hands-on system integrator who enjo
 
 ### `> about_me`
 
-<div align="center">
-
-![CS Grad](https://img.shields.io/badge/CS_Grad-UBC-002145?style=flat-square&logo=googlescholar&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Robotics_%26_AI-5C3EE8?style=flat-square&logo=probot&logoColor=white)
-![Agents](https://img.shields.io/badge/Also-Agent_Development-D97757?style=flat-square&logo=claude&logoColor=white)
-![Builds](https://img.shields.io/badge/Builds-Practical_Software-F05032?style=flat-square&logo=rocket&logoColor=white)
-![Open to](https://img.shields.io/badge/Open_to-Collaborations-2EA043?style=flat-square&logo=github&logoColor=white)
-![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-6E7681?style=flat-square)
-
-</div>
+```yaml
+name:       Immanuel Wiessler
+role:       AI & Automation Engineer @ Wiecon Co. Ltd.
+education:  BSc Computer Science, UBC Okanagan (2026)
+focus:      [LLMs, AI agents, robotics, mechatronics]
+also:       agent development with Claude Code & LangChain
+builds:     practical software that engineers actually use
+open_to:    collaborations
+pronouns:   he/him
+```
 
 <br />
 
