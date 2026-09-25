@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="894" height="190" viewBox="0 0 894 190" role="img" aria-label="github pet: hibernating">
-<title>github pet - hibernating</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="894" height="190" viewBox="0 0 894 190" role="img" aria-label="github pet: sleeping">
+<title>github pet - sleeping</title>
 <rect width="894" height="190" fill="#0d1117"/>
 <rect width="894" height="158" fill="#02060f" opacity="0.4"/>
 <rect x="33" y="16" width="9" height="3" fill="#e3b341"/>
@@ -37,5 +37,5 @@
 <text x="184" y="80" font-family="monospace" font-size="15" fill="#FF2A6D" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;8 -26" dur="3s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.75;1" dur="3s" begin="1s" repeatCount="indefinite"/></text>
 <text x="200" y="80" font-family="monospace" font-size="18" fill="#FF2A6D" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;8 -26" dur="3s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.75;1" dur="3s" begin="2s" repeatCount="indefinite"/></text>
 <text x="215" y="52" font-family="monospace" font-style="italic" font-size="12" fill="#8b949e">dreaming in HTML</text>
-<text x="16" y="180" font-family="monospace" font-size="12" fill="#8b949e">state: hibernating - hibernating - until 2027-04-30, back soon · 18 pushes · 0 prs this week · 765 contributions this year · regenerated every 6h · github-pet by prsdx</text>
+<text x="16" y="180" font-family="monospace" font-size="12" fill="#8b949e">state: sleeping - sleeping - it is 01:20 local time right now · 18 pushes · 0 prs this week · 765 contributions this year · regenerated every 6h · github-pet by prsdx</text>
 </svg>
