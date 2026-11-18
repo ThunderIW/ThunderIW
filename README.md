@@ -19,7 +19,7 @@
 ---
 
 ### `> whoami`
-I am a computer science graduate (UBC Okanagan 2026) who is actively building software that engineers use daily to enhance their workflow. At Wiecon, a bridge consulting company, I automate repetitive engineering work with tools and AI agents. For example, I built an independent proof-checker agent that runs every hour, takes calculation reports and other necessary documents, and produces a detailed report, and an app that takes raw timesheets and converts them into a dashboard interface that makes it easy to view the number of hours an employee has worked for a given year and month. I am also a hands-on system integrator who likes working where software and hardware meet, with an interest in Robotics and running open-weight LLMs privately and offline. Off the clock you will usually find me planning my next trip or tinkering with my 3D printer
+I am a computer science graduate (UBC Okanagan, 2026) who is actively building software that engineers use daily to enhance their workflow. At Wiecon, a bridge consulting company, I automate repetitive engineering work with tools and AI agents. For example, I built an independent proof-checker agent that runs every hour, takes calculation reports and other necessary documents, and produces a detailed report, and an app that takes raw timesheets and converts them into a dashboard interface that makes it easy to view the number of hours an employee has worked for a given year and month. I am also a hands-on system integrator who likes working where software and hardware meet, with an interest in robotics and running open-weight LLMs privately and offline. Off the clock, you will usually find me planning my next trip or tinkering with my 3D printer.
 
 
 <br />
