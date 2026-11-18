@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7A04EB,100:FF2A6D&height=220&section=header&text=IMMANUEL%20WIESSLER&fontSize=46&fontColor=05D9E8&animation=twinkling&fontAlignY=38&desc=%2F%2F%20AI%20and%20Automation%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7A04EB,100:FF2A6D&height=220&section=header&text=IMMANUEL%20WIESSLER&fontSize=46&fontColor=05D9E8&animation=twinkling&fontAlignY=38&desc=%2F%2F%20AI%20and%20Automation%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<a href="https://github.com/ThunderIW"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=3000&pause=800&color=05D9E8&center=true&vCenter=true&width=640&height=45&lines=%3E+system+online%3A+AI+%26+automation+engineer;%3E+deploying+LLM+agents+with+Claude+Code+%26+LangChain;%3E+scanning%3A+installed+programs+with+Program+Scanner;%3E+compiling%3A+Eurocode+2+crack-width+calculator;%3E+interfacing+software+%E2%86%94+hardware" alt="Typing SVG" /></a>
+<a href="https://github.com/ThunderIW"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=3000&pause=800&color=05D9E8&center=true&vCenter=true&width=640&height=45&lines=%3E+system+online%3A+AI+%26+automation+developer;%3E+deploying+LLM+agents+with+Claude+Code+%26+LangChain;%3E+scanning%3A+installed+programs+with+Program+Scanner;%3E+compiling%3A+Eurocode+2+crack-width+calculator;%3E+interfacing+software+%E2%86%94+hardware" alt="Typing SVG" /></a>
 
 <a href="mailto:im.wiessler@gmail.com"><img src="https://img.shields.io/badge/Email-im.wiessler%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ThunderIW"><img src="https://img.shields.io/badge/GitHub-ThunderIW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -29,7 +29,7 @@ I am a computer science graduate ([UBC Okanagan](https://ok.ubc.ca/), 2026) who 
 ```text
          ▄            immanuel@wiessler
     ▄▄▄▄▄█▄▄▄▄▄       -----------------
-   █           █      role      AI & Automation Engineer @ Wiecon Co. Ltd.
+   █           █      role      AI & Automation Developer @ Wiecon Co. Ltd.
    █  ▀█▀ ▀█▀  █      degree    BSc Computer Science, UBC Okanagan (2026)
    █           █      focus     LLMs · AI agents · robotics · mechatronics
    █  ▀▀▀▀▀▀▀  █      also      agent development (Claude Code, LangChain)
@@ -42,7 +42,7 @@ I am a computer science graduate ([UBC Okanagan](https://ok.ubc.ca/), 2026) who 
 
 ### `> current_role`
 
-**AI & Automation Engineer** at **Wiecon Co. Ltd.**, an international bridge design and engineering consultancy. I audit engineering workflows and calculations to find repetitive work worth automating, build the business case for it, then develop and deploy in-house AI and automation tools so engineers can spend their time on design and R&D.
+**AI & Automation Developer** at **Wiecon Co. Ltd.**, an international bridge design and engineering consultancy. I audit engineering workflows and calculations to find repetitive work worth automating, build the business case for it, then develop and deploy in-house AI and automation tools so engineers can spend their time on design and R&D.
 
 <br />
 
