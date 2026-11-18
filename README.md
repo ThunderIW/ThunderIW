@@ -19,7 +19,7 @@
 ---
 
 ### `> whoami`
-I’m a recent Computer Science graduate and hands-on system integrator who enjoys solving real-world problems and turning ideas into things that actually work. I like working at the intersection of software and hardware, with a particular interest in LLMs, AI, robotics, and mechatronics. I spend much of my time exploring new technologies and self-hosting open-source and open-weight models for private, offline use. Outside of technology, I enjoy travelling, exploring new places, and building and sharing the things I create. When I’m not working on a project or exploring something new, I enjoy unwinding with a good video game.
+I am a computer science graduate (UBC Okanagan 2026) who is actively building software that engineers use daily to enhance their workflow. At Wiecon, a bridge consulting company, I automate repetitive engineering work with tools and AI agents. For example, I built an independent proof-checker agent that runs every hour, takes calculation reports and other necessary documents, and produces a detailed report, and an app that takes raw timesheets and converts them into a dashboard interface that makes it easy to view the number of hours an employee has worked for a given year and month. I am also a hands-on system integrator who likes working where software and hardware meet, with an interest in Robotics and running open-weight LLMs privately and offline. Off the clock you will usually find me planning my next trip or tinkering with my 3D printer
 
 
 <br />
